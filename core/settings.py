@@ -31,7 +31,7 @@ INSTALLED_APPS = [
     # my apps
     'myapp.apps.MyappConfig',
     # 3rd apps
-    
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
